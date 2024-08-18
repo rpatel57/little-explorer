@@ -1,0 +1,170 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+/* home */
+.bg1{
+    background-image: url("img/fbg.jpg");
+    height: 660px;
+    width: 100%;
+    background-position: center;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+.bg-trans1{
+    background: #0c0c0c38;
+    height: 800px;
+    width: 100%;
+}
+.btn1{
+    background: white;
+    border: 2px solid white;
+    height: 40px;
+    width: 100px;
+    font-size: 15px;
+    font-weight: 700;
+    margin: 50px 0px 0px 230px;
+}
+.btn1:hover{
+    background-color: transparent;
+    border: 2px solid black;
+    transition: 2s;
+}
+
+.btn2{
+    background: white;
+    border: 1px solid white;
+    height: 40px;
+    width: 100px;
+    font-size: 15px;
+    font-weight: 700;
+    margin: 0px 0px 0px 20px;
+}
+.btn2:hover{
+    background-color: transparent;
+    border: 2px solid black;
+    transition: 2s;
+}
+/* kutch */
+.bg2{
+    background-image: url("img/kutch.jpg");
+    height: 500px;
+    width: 100%;
+    background-position: center;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+.bg-trans2{
+    background: #0c0c0c38;
+    height: 500px;
+    width: 100%;
+}
+/* udipur */
+.bg-trans3{
+    background: #0c0c0c38;
+    height: 500px;
+    width: 100%;
+}
+.bg3{
+    background-image: url("img/udaipur-bg.jpg");
+    height: 500px;
+    width: 100%;
+    background-position: center;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+.bg-trans4{
+    background: #0c0c0c38;
+    height: 500px;
+    width: 100%;
+}
+.bg4{
+    background-image: url("img/mussoorie-bg.jpg");
+    height: 500px;
+    width: 100%;
+    background-position: center;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+.bg-trans5{
+    background: #0c0c0c38;
+    height: 500px;
+    width: 100%;
+}
+.bg5{
+    background-image: url("img/varanasibg.jpg");
+    height: 500px;
+    width: 100%;
+    background-position: center;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+.bg-trans6{
+    background: #0c0c0c38;
+    height: 500px;
+    width: 100%;
+}
+.bg6{
+    background-image: url("img/bggda.jpg");
+    height: 500px;
+    width: 100%;
+    background-position: center;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+/* about us*/
+.bg-trans7{
+    background: #0c0c0c38;
+    height: 550px;
+    width: 100%;
+}
+.bg7{
+    background-image: url("img/new\ bg.webp");
+    height: 550px;
+    width: 100%;
+    background-position: center;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+/* contect us */
+.bg-trans8{
+    background: #0c0c0c38;
+    height: 550px;
+    width: 100%;
+}
+.bg8{
+    background-image: url("img/new\ bg.webp");
+    height: 550px;
+    width: 100%;
+    background-position: center;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+.bg-trans9{
+    background: #0c0c0c38;
+    height: 500px;
+    width: 100%;
+}
+.bg9{
+    background-image: url("img/cu.jpg");
+    height: 500px;
+    width: 100%;
+    background-position: center;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+.footer-customize{
+    width: 100%;
+    height: 320px;
+    margin-bottom: -7px;
+}
